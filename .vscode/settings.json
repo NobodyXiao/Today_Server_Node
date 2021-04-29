@@ -1,0 +1,10 @@
+{
+    "editor.tabSize": 2,
+    "editor.fontSize": 20,
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": false,
+    "editor.formatOnType": true,
+    "prettier.bracketSpacing": true,
+    "prettier.arrowParens": "always",
+    "prettier.singleQuote": true
+  }
